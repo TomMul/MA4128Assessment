@@ -1,2 +1,2 @@
-I love networks.
+Network Analysis
 =========================
